@@ -8,7 +8,7 @@ This repository contains the assignments for the BLG212E course for the year 202
 
 ## Marks
 
-![Marks](./marks.jpg)
+![Marks](./Marks.jpg)
 
 ## General remarks about the class
 
